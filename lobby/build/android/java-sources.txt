@@ -1,0 +1,8 @@
+"/Users/adilarif1/Documents/Appcelerator_Studio_Workspace/lobby/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/adilarif1/Documents/Appcelerator_Studio_Workspace/lobby/build/android/gen/android/support/v7/cardview/R.java"
+"/Users/adilarif1/Documents/Appcelerator_Studio_Workspace/lobby/build/android/gen/com/lobby/AssetCryptImpl.java"
+"/Users/adilarif1/Documents/Appcelerator_Studio_Workspace/lobby/build/android/gen/com/lobby/LobbyActivity.java"
+"/Users/adilarif1/Documents/Appcelerator_Studio_Workspace/lobby/build/android/gen/com/lobby/LobbyAppInfo.java"
+"/Users/adilarif1/Documents/Appcelerator_Studio_Workspace/lobby/build/android/gen/com/lobby/LobbyApplication.java"
+"/Users/adilarif1/Documents/Appcelerator_Studio_Workspace/lobby/build/android/gen/com/lobby/R.java"
+"/Users/adilarif1/Documents/Appcelerator_Studio_Workspace/lobby/build/android/gen/ti/modules/titanium/ui/R.java"

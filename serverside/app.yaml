@@ -1,0 +1,32 @@
+application: postmediax
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /html
+  static_dir: html
+
+- url: /js
+  mime_type: text/javascript
+  static_dir: html
+
+- url: /css
+  mime_type: text/css
+  static_dir: html/css
+
+
+- url: /img
+  static_dir: html/img
+
+- url: .*
+  script: main.app
+  
+libraries:
+- name: webapp2
+  version: "2.5.2"
